@@ -2,8 +2,21 @@
 
 whispr
 ========================
+Your medical info is yours. Period.
 Whispr is a medical profile app - compile all relevant medical history in one place, with a convenient way to send it to health care providers, and have them add in new information in real-time.
 
+100% online, 100% available, 100% easy service to store and share medical info
+● Securely store your data, and access it any time, anywhere
+● Plugs into our network, allowing you to easily link with healthcare providers
+     ○ Removes the hassle from sharing info across hospitals and insurance companies
+     ○ One click:
+          ■ Send your info to UCLA Health
+          ■ Revoke USC Medicine’s access to it
+● From a provider perspective
+     ○ Easy access to the healthcare data of users
+     ○ Ability to search for and request data from users
+     ○ Future goal of aggregated statistics filtered by demographic
+ 
 ## Prerequisites
 
  - Docker 18.09.2
