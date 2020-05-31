@@ -5,7 +5,7 @@ whispr
 Your medical info is yours. Period.
 Whispr is a medical profile app - compile all relevant medical history in one place, with a convenient way to send it to health care providers, and have them add in new information in real-time.
 
-100% online, 100% available, 100% easy service to store and share medical info
+100% online, 100% available, 100% easy service to store and share medical info<br>
 ● Securely store your data, and access it any time, anywhere<br>
 ● Plugs into our network, allowing you to easily link with healthcare providers<br>
      ○ Removes the hassle from sharing info across hospitals and insurance companies<br>
