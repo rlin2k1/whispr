@@ -8,14 +8,14 @@ Whispr is a medical profile app - compile all relevant medical history in one pl
 100% online, 100% available, 100% easy service to store and share medical info<br>
 ● Securely store your data, and access it any time, anywhere<br>
 ● Plugs into our network, allowing you to easily link with healthcare providers<br>
-     ○ Removes the hassle from sharing info across hospitals and insurance companies<br>
-     ○ One click:<br>
-          ■ Send your info to UCLA Health<br>
-          ■ Revoke USC Medicine’s access to it<br>
+     - Removes the hassle from sharing info across hospitals and insurance companies<br>
+     - One click:<br>
+          - Send your info to UCLA Health<br>
+          - Revoke USC Medicine’s access to it<br>
 ● From a provider perspective<br>
-     ○ Easy access to the healthcare data of users<br>
-     ○ Ability to search for and request data from users<br>
-     ○ Future goal of aggregated statistics filtered by demographic
+     - Easy access to the healthcare data of users<br>
+     - Ability to search for and request data from users<br>
+     - Future goal of aggregated statistics filtered by demographic
  
 ## Prerequisites
 
